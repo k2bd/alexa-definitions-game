@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Selection",
+          "type": "FIRST_OR_SECOND"
+        }
+      ],
+      "intent": "DefinitionSelectIntent"
+    },
+    {
+      "intent": "ReadyIntent"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+DefinitionSelectIntent {Selection}
+ReadyIntent next word
